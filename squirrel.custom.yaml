@@ -12,6 +12,8 @@ patch:
       ascii_mode: true
     org.yuanli.utools:
       ascii_mode: true
+    org.yuanli.utools:
+      ascii_mode: true
     com.runningwithcrayons.Alfred:
       ascii_mode: true
     com.apple.Terminal:
