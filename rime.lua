@@ -16,7 +16,7 @@ select_character = require("select_character")
 date_translator = require("date_translator")
 
 -- Unicode，U 开头
-unicode = require("unicode")
+-- unicode = require("unicode")
 
 -- 数字、人民币大写，R 开头
 number_translator = require("number_translator")
